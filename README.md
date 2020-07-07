@@ -1,5 +1,3 @@
 # tecnomultimedia
 
-En el flujo fui colocando los diferentes escenarios que habrá en la aventura gráfica. La idea es que tenga tres finales alternativos. 
-La aventura se tratará de un personaje, en un contexto post apocaliptico, donde tendrá que salir en la busqueda de herramientas, armas, comida, agua, pudiendo elegir entre caminos más ''faciles'' u otros más arriesgados. 
-Las líneas punteadas dan la posibilidad de, al haber llegado al final, poder regresar a alguna parte de la aventura.
+Estuve agregando más info en el diagrama de flujo. Comose vé ahí, cuando el personaje se acerca a los arbustos y cliquea, la idea es que obtenga recursos y, lo más importante, una herramienta, que al tenerla, si luego se enfrenta contra los infectados, sea el elemento que permita ''ganarle'' y que no tenga que rodear. Es decir,la idea sería que quien juegue pueda acceder a esta opción solo si previamente reviso en los arbustos. Aclaro esto ya que en la aventura actual no se muestra así. 
