@@ -1,0 +1,100 @@
+/*SCROLL UP*/
+.simplescrollup__button {
+	position: fixed;
+	bottom: 3rem;
+	right: 3rem;
+	transition: 1s all;
+	z-index: 10000;
+}
+.simplescrollup__button--show {
+	transform: translateX(0);
+}
+.simplescrollup__button--hide {
+	transform: translateX(100px);
+}
+
+a{
+
+	    transition: all 500ms linear;
+}
+
+.github {
+
+margin-top: 10px;
+width: 20px;
+height: 20px;
+
+}
+.instagram {
+
+width: 20px;
+height: 20px;
+
+}
+
+.card {
+
+height: 300px;
+
+}
+.activator {
+
+	height: 150px;
+}
+h1 {
+
+	margin-left: 250px;
+}
+
+.boton {
+
+margin-left: 50%;
+margin-bottom: 50px;
+
+}
+
+.autor {
+
+	margin-left: 320px;
+	margin-bottom: 30px;
+}
+
+.imagenes h5 {
+			margin-left: 37%;
+
+}
+p {
+
+	text-align: justify;
+
+}
+.historias{
+	margin-bottom: 100px;
+	border-spacing: 50px;
+	border-bottom: 1px solid rgba(0,0,0,0.14);
+}
+.tps {
+	margin-bottom: 100px;
+	border-spacing: 50px;
+	border-bottom: 1px solid rgba(0,0,0,0.14);
+}
+.tpfinal {
+
+margin-bottom: 100px;
+	border-spacing: 50px;
+	border-bottom: 1px solid rgba(0,0,0,0.14);
+
+}
+nav {
+		color: solid;
+		background-color: #fff;
+    text-transform: uppercase;
+		letter-spacing: 2px;
+    margin-left: auto;
+	position: fixed;
+
+}
+.encabezado {
+
+	margin-top: 100px;
+}
